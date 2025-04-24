@@ -4,7 +4,7 @@
  * Plugin URI: https://solutions.techscape.pk
  * Description: Adds bulk discount for tickets (product ID 5460) and dynamic ticket assignment for products based on price. Offers Entry Selection 2 for free on any purchase.
  * Version: 1.1.0
- * Author: Sajid
+ * Author: Sajid Sdk
  * Author URI: https://solutions.techscape.pk
  * License: GPL-2.0+
  * Text Domain: wc-bulk-tickets
